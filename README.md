@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Eliud Maina Karimi
 
-<!--
-**eliudkarimi20-stack/eliudkarimi20-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning quantitative trading, statistical modeling, and automated trading system development.
+- I'm interested in algorithmic trading, AI-driven systems, financial markets, and automation.
+- I'm looking to collaborate on trading bots, quantitative research, and beginner-friendly automation or fintech projects.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Python
+- C# (cTrader cBots)
+- Algorithmic Trading Strategy Design
+- Statistical Market Analysis
+- Trading Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- EliteQuantBot — self-improving automated trading bot focused on risk control, statistical edge, and market adaptation.
+
+## How to Reach Me
+- Email: eliudkarimi20@gmail.com
+- LinkedIn:
