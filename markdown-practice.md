@@ -21,12 +21,12 @@
 [ ]Build a statistical trading model
 [ ]Create automated trading bot improvements
 [ ]Practice Markdown formatting
-```python
+`python
 print("Hello, world!")
-```
+`
 > Consistency beats intensity. Small improvements every day lead to big long-term results.
 **About Me**
-Hi, I'm Eliud.
+Hi, I'm *Eliud*.
 **Interests**
 -Algorithmic trading
 -Statistical analysis
@@ -36,5 +36,5 @@ Hi, I'm Eliud.
 2. Build smarter trading bots
 3. Learn advanced Git workflows
 **Favorite Tool**
-ctrader
+~~ctrader~~
 > I believe learning by building real projects is the fastest way to grow.
